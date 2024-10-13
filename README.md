@@ -36,9 +36,4 @@ The following input parameters are varied in the simulations:
 ## Software Requirements
 To run the simulations, you will need:
 - **Abaqus/CAE**: Finite element analysis software for setting up and running the simulations.
-- **Python (optional)**: For post-processing results using Abaqus Python scripts.
 
-## Usage Instructions
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/cold-rolling-simulation-abaqus.git
